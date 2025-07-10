@@ -25,6 +25,25 @@ We’re building **Obsygnal** to unify it all.
 
 ---
 
+---
+
+## 🛡️ Philosophy
+- We believe in:
+- Unified Observability — One source of truth.
+- Simplicity & Speed — Clean UX, fast insights.
+- Trust & Transparency — Clear logs, no black boxes.
+- AI-Ready Architecture — Built to scale from metrics to models.
+
+---
+---
+## ✨ Future Features
+- 🌐 Real-time multi-cloud resource map
+- 📊 Prometheus + OpenTelemetry ingestion
+- ⚡ AI-assisted anomaly detection
+- 🧠 Model & LLM observability plugins
+- 🧩 Plugin support for third-party integration
+---
+
 ## 🔭 Live Preview
 
 > 🌐 [www.obsygnal.com](https://www.obsygnal.com)  
@@ -47,7 +66,8 @@ We’re building **Obsygnal** to unify it all.
 | **ConvertKit**    | Email capture (can swap with Formspree) |
 
 ---
-
+##🧠 Built With Intention
+Obsygnal is what happens when observability meets elegance.
 
 ---
 
@@ -61,5 +81,4 @@ timeline
     2025-09-20 : Phase 3: APM Metrics & Tracing
     2025-10-20 : Phase 4: ML Model Monitoring (Latency, Drift, Accuracy)
     2025-11-20 : Phase 5: LLM Usage & Health Metrics
-
 
