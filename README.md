@@ -67,7 +67,7 @@ We’re building **Obsygnal** to unify it all.
 
 ---
 ##🧠 Built With Intention
-Obsygnal is what happens when observability meets elegance.
+- Obsygnal is what happens when observability meets elegance.
 
 ---
 
