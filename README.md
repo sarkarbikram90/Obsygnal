@@ -66,7 +66,7 @@ We’re building **Obsygnal** to unify it all.
 | **ConvertKit**    | Email capture (can swap with Formspree) |
 
 ---
-##🧠 Built With Intention
+🧠 Built With Intention
 - Obsygnal is what happens when observability meets elegance.
 
 ---
