@@ -32,19 +32,6 @@ We’re building **Obsygnal** to unify it all.
 
 ---
 
-## 📸 Landing Page Preview
-
-### 👁️ Hero Section
-![Hero](./assets/screens/hero-section.png)
-
-### 🔄 Animated System Architecture
-![Architecture](./assets/screens/animated-architecture.png)
-
-### 🎯 Roadmap Section
-![Roadmap](./assets/screens/roadmap-section.png)
-
-### 📬 Early Access Form
-![Early Access](./assets/screens/waitlist-form.png)
 
 ---
 
