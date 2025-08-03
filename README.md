@@ -1,6 +1,6 @@
 # 🛰️ Obsygnal — Unified Observability Starts Here
 
-> *One Signal. Infinite Clarity.*
+*One Signal. Infinite Clarity.*
 
 Obsygnal is on a mission to **redefine observability** for modern engineering teams — starting with **infrastructure monitoring** for on-prem and cloud-hosted environments. As we grow, we’ll expand into APM, ML observability, and LLM intelligence — all under one elegant, performant, and secure umbrella.
 
